@@ -6,3 +6,5 @@ Addded new line
 Hi
 
 Hello
+
+New line addeed
